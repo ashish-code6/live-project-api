@@ -1,0 +1,28 @@
+{
+  "categoryapi": [
+    {
+      "id": "f16b",
+      "catlist": "printer"
+    },
+    {
+      "id": "a289",
+      "catlist": "Pen"
+    },
+    {
+      "id": "310f",
+      "catlist": "Book"
+    },
+    {
+      "id": "3722",
+      "catlist": "Paper"
+    },
+    {
+      "id": "449e",
+      "catlist": "Mouse"
+    }
+  ],
+  "productapi": [],
+  "cartapi": [],
+  "sellerapi": [],
+  "orderapi": []
+}
